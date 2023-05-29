@@ -4,7 +4,8 @@
     padding: 0;
     box-sizing: border-box;
 }
-::-webkit-scrollbar{
+/*Scroll bar*/
+/* ::-webkit-scrollbar{
     width: 20px;
 }
 ::-webkit-scrollbar-track{
@@ -15,7 +16,7 @@
 }
 ::-webkit-scrollbar-thumb:hover{
     background-color:darkcyan;
-}
+} */
 body{
     font-family: 'Roboto', sans-serif;
     font-size: 1.2rem;
